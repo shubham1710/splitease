@@ -193,13 +193,3 @@ Created with ❤️ by Shubham
 
 - Backend on Render free tier sleeps after 15 minutes of inactivity (takes ~30s to wake up)
 - MongoDB Atlas free tier has 512MB storage limit
-
-## 🔮 Future Enhancements
-
-- [ ] Google OAuth integration
-- [ ] Receipt upload and OCR
-- [ ] Multi-currency support
-- [ ] Email notifications
-- [ ] Mobile app (React Native)
-- [ ] Expense categories and analytics
-- [ ] Recurring expenses
