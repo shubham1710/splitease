@@ -1,0 +1,27 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Antigravity brain directory (if you want to exclude AI assistant artifacts)
+# .gemini/
